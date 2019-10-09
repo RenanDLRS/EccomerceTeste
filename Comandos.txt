@@ -19,3 +19,8 @@ Configurar para onde o repositorio sera enviado
 
 Enviar o commit para o repositorio remoto
 - git push -u origin master
+
+Remover as credenciais
+Credenciais
+
+Alteracao
